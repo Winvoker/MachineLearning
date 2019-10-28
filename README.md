@@ -10,8 +10,12 @@ This folder consists implementation of Machine Learning Equations to Octave. Als
 
 * Mathematical Implementation of Linear Regression
   * Cost Function J
-  * Graident Decent
-
+  * Graident Descent
+    * Graident Descent for Multiple Variable
+  * Normal Equation
+  * Example 
+  * Multiple Variable Example
+  
 ---
 
 ## Python
