@@ -3,21 +3,6 @@
 Hello , I am Batuhan. In this repository you can find my machine learning codes and projects.
 
 
-## Octave-Machine-Learning-Algorithms
-
-This folder consists implementation of Machine Learning Equations to Octave. Also these codes are my assigments for
-**MIT-Machine Learning Course** on Coursera.
-
-* Mathematical Implementation of Linear Regression
-  * Cost Function J
-  * Graident Descent
-    * Graident Descent for Multiple Variable
-  * Normal Equation
-  * Example 
-  * Multiple Variable Example
-  
----
-
 ## Python
 
 This folder consist of Machine Learning Algorithms in Python. In this codes I used **pandas** for manupulating data frames.
@@ -30,3 +15,20 @@ wrote this codes when i was taking **DATAI TEAM's Course** *Machine Learning ve 
   * Polynomial Linear Regression
  * Decision Tree
 ---
+
+## Octave-Machine-Learning-Algorithms
+
+This folder consists implementation of Machine Learning Equations to Octave. Also these codes are my assigments for
+**MIT-Machine Learning Course** on Coursera.
+
+* Mathematical Implementation of Linear Regression
+  * Cost Function J
+  * Graident Descent
+    * Graident Descent for Multiple Variable
+  * Normal Equation
+  * Feature Normalization
+  * Example 
+  * Multiple Variable Example
+  
+---
+
