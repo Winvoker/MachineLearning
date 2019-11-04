@@ -22,13 +22,7 @@ This folder consists implementation of Machine Learning Equations to Octave. Als
 **MIT-Machine Learning Course** on Coursera.
 
 * Mathematical Implementation of Linear Regression
-  * Cost Function J
-  * Graident Descent
-    * Graident Descent for Multiple Variable
-  * Normal Equation
-  * Feature Normalization
-  * Example 
-  * Multiple Variable Example
+* Mathematical Implementation of Logistic Regression(Classification)
   
 ---
 
