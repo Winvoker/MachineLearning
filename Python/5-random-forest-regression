@@ -1,0 +1,31 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Dec  3 21:59:10 2019
+
+@author: batuhan
+"""
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+data = pd.read_csv("random-forest-regression-dataset.csv",sep=";",header = None)
+
+x = data.iloc[:,0].values.reshape(-1,1)
+y = data.iloc[:,1].values.reshape(-1,1)
+
+from sklearn.ensemble import RandomForestRegressor
+
+rf = RandomForestRegressor(n_estimators = 100,random_state=42)
+
+rf.fit(x,y)
+
+x_ = np.arange(min(x),max(x),0.01).reshape(-1,1)
+y_ = rf.predict(x_)
+
+plt.scatter(x,y,color="red")
+plt.plot(x_,y_,color="blue")
+plt.xlabel("Tribün")
+plt.ylabel("Fiyat")
+plt.show()
