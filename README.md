@@ -14,6 +14,7 @@ wrote this codes when i was taking **DATAI TEAM's Course** *Machine Learning ve 
   * Multiple Linear Regression
   * Polynomial Linear Regression
  * Decision Tree
+ * Random Forest Regression
 ---
 
 ## Octave-Machine-Learning-Algorithms
