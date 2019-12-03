@@ -19,7 +19,7 @@ wrote this codes when i was taking **DATAI TEAM's Course** *Machine Learning ve 
 
 ## Octave-Machine-Learning-Algorithms
 
-This folder consists implementation of Machine Learning Equations to Octave. Also these codes are my assigments for
+This folder consists of implementation of Machine Learning Equations to Octave. Also these codes are my assigments for
 **MIT-Machine Learning Course** on Coursera.
 
 * Mathematical Implementation of Linear Regression
