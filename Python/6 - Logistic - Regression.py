@@ -86,24 +86,3 @@ def logistic_regression(x_train,y_train,x_test,y_test,learning_rate,num):
     
     prediction = predict(parameters["weight"],parameters["bias"],x_test)
     print("test accuracy: {} %".format(100 - np.mean(np.abs(prediction - y_test)) * 100))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
