@@ -16,6 +16,7 @@ wrote this codes when i was taking **DATAI TEAM's Course** *Machine Learning ve 
  * Decision Tree
  * Random Forest Regression
  * Logistic Regression
+ * KNN Classification
 ---
 
 ## Octave-Machine-Learning-Algorithms
