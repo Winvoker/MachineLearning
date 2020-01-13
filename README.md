@@ -17,11 +17,14 @@ wrote this codes when i was taking **DATAI TEAM's Course** *Machine Learning ve 
  * Random Forest Regression
  * Logistic Regression
  * KNN Classification
+ * Support Vector Machine
+ * Artifical Neural Network with PyTorch
+ * Artificial Neural Network with Keras
 ---
 
 ## Octave-Machine-Learning-Algorithms
 
-This folder consists of implementation of Machine Learning Equations to Octave. Also these codes are my assigments for
+This folder consists of implementation of Machine Learning Equations to Octave and Matlab. Also these codes are my assigments for
 **MIT-Machine Learning Course** on Coursera.
 
 * Mathematical Implementation of Linear Regression
