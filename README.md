@@ -20,6 +20,7 @@ wrote this codes when i was taking **DATAI TEAM's Machine Learning and Deep Lear
  * Support Vector Machine
  * Artifical Neural Network with PyTorch
  * Artificial Neural Network with Keras
+ * Recurrent Neural Network with Keras
 ---
 
 ## Octave-Machine-Learning-Algorithms
