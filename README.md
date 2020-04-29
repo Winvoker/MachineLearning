@@ -1,6 +1,6 @@
 # MachineLearning
 
-Hello , I am Batuhan. In this repository you can find my machine learning codes and projects.
+Hello , I am Batuhan. In this repository you can find codes that i wrote when i was learning machine learning.
 
 
 ## Python
