@@ -18,9 +18,13 @@ wrote this codes when i was taking **DATAI TEAM's Machine Learning and Deep Lear
  * Logistic Regression
  * KNN Classification
  * Support Vector Machine
+ * Classification Example
  * Artifical Neural Network with PyTorch
  * Artificial Neural Network with Keras
  * Recurrent Neural Network with Keras
+ * K-Means Clustering
+ * Hieararchical Clustering
+ * Natural Language Processing
 ---
 
 ## Octave-Machine-Learning-Algorithms
