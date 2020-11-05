@@ -6,11 +6,11 @@ Hello , I am Batuhan. In this repository you can find codes that i wrote when i 
 ## Python
 
 This folder consist of Machine Learning Algorithms in Python. In this codes I used **pandas** for manupulating data frames.
-In addition, I used **matplotlib** for plotting my datas , and **sckitlearn** for machine learning algorithms.Also , I 
+In addition, I used **matplotlib** for plotting my datas , and **sckitlearn** for machine learning algorithms.Also , I
 wrote this codes when i was taking **DATAI TEAM's Machine Learning and Deep Learning Courses** on Udemy.
 
 * Regression Model
-  * Linear Regression 
+  * Linear Regression
   * Multiple Linear Regression
   * Polynomial Linear Regression
  * Decision Tree
@@ -24,16 +24,5 @@ wrote this codes when i was taking **DATAI TEAM's Machine Learning and Deep Lear
  * Recurrent Neural Network with Keras
  * K-Means Clustering
  * Hieararchical Clustering
- * Natural Language Processing
+ * Natural Language Processing  
 ---
-
-## Octave-Machine-Learning-Algorithms
-
-This folder consists of implementation of Machine Learning Equations to Octave and Matlab. Also these codes are my assigments for
-**MIT-Machine Learning Course** on Coursera.
-
-* Mathematical Implementation of Linear Regression
-* Mathematical Implementation of Logistic Regression(Classification)
-  
----
-
